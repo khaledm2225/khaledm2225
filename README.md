@@ -1,4 +1,4 @@
-![Khaled Mohamed — iOS Developer](./banner.png)
+![Khaled Mohamed — iOS Developer](./banner2.png)
 
 <div align="center">
 
