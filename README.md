@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=safari&logoColor=white)](https://khaledm2225.github.io)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaled.m2225@gmail.com)
-[![Maghasel on the App Store](https://img.shields.io/badge/MAGHASEL_ON_THE_APP_STORE-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6627333043)
+[![Multi-vendor marketplace on the App Store](https://img.shields.io/badge/MULTI--VENDOR_MARKETPLACE-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6627333043)
 
 # Khaled Mohammed
 
