@@ -5,9 +5,13 @@
 
 ![Khaled Mohammed — iOS Developer](banner2.png)
 
-[![Open to iOS Roles](https://img.shields.io/badge/Open_to_iOS_Roles-F05138?style=flat-square&logo=swift&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B0B0B?style=flat-square&logo=safari&logoColor=white)](https://khaledm2225.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
+[![Open to Senior iOS Roles](https://img.shields.io/badge/OPEN_TO_SENIOR_iOS_ROLES-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=safari&logoColor=white)](https://khaledm2225.github.io)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaled.m2225@gmail.com)
+[![5 Apps Live](https://img.shields.io/badge/5_APPS_LIVE-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6627333043)
+[![Mostaql 5.0](https://img.shields.io/badge/MOSTAQL_5.0-1BA39C?style=for-the-badge)](https://mostaql.com/u/khaled_m2)
 
 # Khaled Mohammed
 
