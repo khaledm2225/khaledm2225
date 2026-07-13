@@ -27,10 +27,10 @@ I help founders decide *what* to build, not just how — from the first conversa
 ## Shipped
 
 **[Maghasel](https://apps.apple.com/app/id6627333043)** — multi-vendor car-wash & boat-cleaning marketplace *(Kuwait)*
-Two native iOS apps on a shared Firebase backend: a customer app for booking, plus a merchant app where vendors accept and fulfil jobs. Tap Payments integrated.
+Two native iOS apps sharing one backend: a customer app for booking, plus a merchant app where vendors accept and fulfil jobs. Tap Payments, push notifications (FCM), and App Check integrated.
 
 **[RedRamp](https://apps.apple.com/app/id6479068212)** — subscription car-wash platform *(Saudi Arabia)*
-Client and driver apps in SwiftUI (MVVM-C) with package subscriptions, time-slot dispatch, and Moyasar / Apple Pay.
+Client and driver apps in SwiftUI (MVVM-C) with package subscriptions, time-slot dispatch, Moyasar / Apple Pay, and push notifications (FCM).
 
 **[Teacher's Bag](https://apps.apple.com/app/id6474667396)** — offline-first lesson & grading app for teachers
 SwiftUI + MVVM, Core Data with CloudKit sync across iPhone and iPad. Automatic quiz grading. Fully localized with RTL layout.
@@ -51,7 +51,7 @@ SwiftUI, MVVM + Coordinator, offline-first with CloudKit sync, Sign in with Appl
 | **Testing** | **TDD** · XCTest · dependency injection · mocking |
 | **Architecture** | MVVM · MVVM-C · Clean Architecture · multi-vendor marketplaces |
 | **Payments** | Moyasar · Tap Payments · Apple Pay · StoreKit 2 · RevenueCat |
-| **Backend** | REST APIs (URLSession, async/await, Codable) · Firebase · FCM |
+| **Backend** | REST APIs (URLSession, async/await, Codable) · Firebase (Auth, FCM, App Check, Storage) |
 | **CI/CD** | GitHub Actions · Instruments · Swift Package Manager |
 | **Growth** | Firebase Analytics · A/B testing (Remote Config) · feature flags |
 
