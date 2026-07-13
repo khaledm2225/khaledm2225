@@ -10,7 +10,7 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-0B0B0B?style=for-the-badge&logo=safari&logoColor=white)](https://khaledm2225.github.io)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaled.m2225@gmail.com)
-[![Multi-vendor marketplace on the App Store](https://img.shields.io/badge/MULTI--VENDOR_MARKETPLACE-0D96F6?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6627333043)
+[![Maghasel — multi-vendor marketplace](https://img.shields.io/badge/MAGHASEL-Multi--vendor_marketplace-0D96F6?style=for-the-badge&labelColor=1C1C1E&logo=appstore&logoColor=white)](https://apps.apple.com/app/id6627333043)
 
 # Khaled Mohammed
 
@@ -20,7 +20,7 @@ I help founders decide *what* to build, not just how — from the first conversa
 
 **Most engagements run one to two years, and several are still running today.**
 
-- 4+ years, **5 apps live on the App Store**
+- 4+ years, **6 apps live on the App Store** across 4 client platforms
 - Native iOS in **Swift and SwiftUI**, built with **TDD**
 - Payments, multi-vendor marketplaces, and Arabic right-to-left interfaces
 - Cairo, Egypt · open to **senior iOS roles**, remote or on-site
@@ -38,7 +38,7 @@ Client and driver apps in SwiftUI (MVVM-C) with package subscriptions, time-slot
 **[Teacher's Bag](https://apps.apple.com/app/id6474667396)** — offline-first lesson & grading app for teachers
 SwiftUI + MVVM, Core Data with CloudKit sync across iPhone and iPad. Automatic quiz grading. Fully localized with RTL layout.
 
-**[FinTik](https://apps.apple.com/app/id6749169615)** — personal finance app *(independent product)*
+**[FinTik](https://apps.apple.com/app/id6749169615)** — personal finance app *(Kuwait)*
 SwiftUI, MVVM + Coordinator, offline-first with CloudKit sync, Sign in with Apple, RevenueCat subscriptions.
 
 > **Client code stays private under NDA, and it stays that way.**
