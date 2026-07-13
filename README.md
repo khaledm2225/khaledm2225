@@ -13,7 +13,9 @@
 
 **iOS Developer and long-term technical partner to GCC startups.**
 
-I help founders decide *what* to build, not just how — from the first conversation to live on the App Store, and then for the years after. Most engagements run one to two years, and several are still running today.
+I help founders decide *what* to build, not just how — from the first conversation to live on the App Store, and then for the years after.
+
+**Most engagements run one to two years, and several are still running today.**
 
 - 4+ years, **5 apps live on the App Store**
 - Native iOS in **Swift and SwiftUI**, built with **TDD**
