@@ -1,40 +1,65 @@
-![Khaled Mohamed — iOS Developer](./banner2.png)
+<!--
+  Paste this into:  github.com/khaledm2225/khaledm2225  ->  README.md
+  Keep banner2.png in the repo; the image line below points at it.
+-->
 
-<div align="center">
+![Khaled Mohammed — iOS Developer](banner2.png)
 
 [![Open to iOS Roles](https://img.shields.io/badge/Open_to_iOS_Roles-F05138?style=flat-square&logo=swift&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0B0B0B?style=flat-square&logo=safari&logoColor=white)](https://khaledm2225.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
 
-</div>
+# Khaled Mohammed
 
-## Currently
+**iOS Developer and long-term technical partner to GCC startups.**
 
-- Delivering iOS apps for clients across the GCC — booking platforms, on-demand services, in-app payments
-- Building **EdgeFit**, a SwiftUI fitness app with RevenueCat subscriptions
-- Based in Cairo, Egypt · open to **iOS roles**, remote or on-site
+I help founders decide *what* to build, not just how — from the first conversation to live on the App Store, and then for the years after. Most engagements run one to two years, and several are still running today.
+
+- 4+ years, **5 apps live on the App Store**
+- Native iOS in **Swift and SwiftUI**, built **test-first**
+- Payments, multi-vendor marketplaces, and Arabic right-to-left interfaces
+- Cairo, Egypt · open to **senior iOS roles**, remote or on-site
+
+---
+
+## Shipped
+
+**[Maghasel](https://apps.apple.com/app/id6627333043)** — multi-vendor car-wash & boat-cleaning marketplace *(Kuwait)*
+Two native iOS apps on a shared Firebase backend: a customer app for booking, plus a merchant app where vendors accept and fulfil jobs. Tap Payments integrated.
+
+**[RedRamp](https://apps.apple.com/app/id6479068212)** — subscription car-wash platform *(Saudi Arabia)*
+Client and driver apps in SwiftUI (MVVM-C) with package subscriptions, time-slot dispatch, and Moyasar / Apple Pay.
+
+**[Teacher's Bag](https://apps.apple.com/app/id6474667396)** — offline-first lesson & grading app for teachers
+SwiftUI + MVVM, Core Data with CloudKit sync across iPhone and iPad. Automatic quiz grading. Fully localized with RTL layout.
+
+**[FinTik](https://apps.apple.com/app/id6749169615)** — personal finance app *(independent product)*
+SwiftUI, MVVM + Coordinator, offline-first with CloudKit sync, Sign in with Apple, RevenueCat subscriptions.
+
+> **Client code stays private under NDA, and it stays that way.**
+> But I'll walk you through the architecture, the trade-offs, and every decision behind it.
+
+---
 
 ## Stack
 
-<img src="https://skillicons.dev/icons?i=swift,firebase,git&theme=dark" alt="Tech stack" />
+| | |
+|---|---|
+| **iOS** | Swift · SwiftUI · UIKit · Swift Concurrency · Combine · Core Data · CloudKit · PassKit |
+| **Testing** | **TDD** · XCTest · dependency injection · mocking |
+| **Architecture** | MVVM · MVVM-C · Clean Architecture · multi-vendor marketplaces |
+| **Payments** | Moyasar · Tap Payments · Apple Pay · StoreKit 2 · RevenueCat |
+| **Backend** | REST APIs (URLSession, async/await, Codable) · Firebase · FCM |
+| **CI/CD** | GitHub Actions · Instruments · Swift Package Manager |
+| **Growth** | Firebase Analytics · A/B testing (Remote Config) · feature flags |
 
-**iOS** · SwiftUI · UIKit · Swift Concurrency · Combine<br>
-**Architecture** · MVVM · Clean Architecture · XCTest<br>
-**Backend** · Firebase · RevenueCat
+---
 
-## Selected Work
+## Currently
 
-**EdgeFit** — iOS fitness app *(in development)*<br>
-Weight logging, hydration reminders, journaling and streaks. Built with SwiftUI and RevenueCat subscriptions.
+- Shipping for GCC startups on a continuous weekly cycle with each founder
+- Building **EdgeFit**, a SwiftUI fitness app with RevenueCat subscriptions
 
-**Bookly** — cafe booking & car-wash marketplace *(KSA)*<br>
-Native iOS app for a multi-vendor booking platform with in-app payments.
+---
 
-**Maghasel** — on-demand car-wash platform *(Kuwait)*<br>
-A suite of native iOS apps on a Firebase backend with integrated payments.
-
-> Most of my work lives in private client repositories — happy to walk through it on request.
-
-## Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=flat-square&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL) -->
-<!-- [![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=flat-square&logo=appstore&logoColor=white)](YOUR_APP_URL) -->
+**[khaledm2225.github.io](https://khaledm2225.github.io)** · [LinkedIn](https://www.linkedin.com/in/khaledm2225/) · khaled.m2225@gmail.com
