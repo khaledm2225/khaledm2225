@@ -50,7 +50,7 @@ Not claims. Every number below is checkable on a third-party platform.
 | Platform | Since | Record |
 |---|---|---|
 | **[Mostaql](https://mostaql.com/u/khaled_m2)** | Jan 2022 | **5.0 stars** · 26 milestones · 24 reviews |
-| **[Upwork](https://www.upwork.com/freelancers/~khaledm2225)** | Jan 2025 | 5 milestones, all rated 5.0 |
+| **[Upwork](https://www.upwork.com/freelancers/~0136f03ca1ae282bf0)** | Jan 2025 | 5 milestones, all rated 5.0 |
 | **[Forlanso](https://www.forlanso.com/en/khaled-mohamed-6)** | Jul 2025 | 21+ milestones |
 
 **52+ milestones** across ongoing engagements.
@@ -66,7 +66,7 @@ Not claims. Every number below is checkable on a third-party platform.
 | **Architecture** | MVVM · MVVM-C · Clean Architecture · multi-vendor marketplaces |
 | **Payments** | Moyasar · Tap Payments · Apple Pay · StoreKit 2 · RevenueCat |
 | **Backend** | REST APIs (URLSession, async/await, Codable) · Firebase (Auth, FCM, App Check, Storage) |
-| **CI/CD** | GitHub Actions · Instruments · Swift Package Manager |
+| **Performance** | Instruments · time profiler · memory & leaks · Swift Package Manager |
 | **Growth** | Firebase Analytics · A/B testing (Remote Config) · feature flags |
 
 ---
