@@ -43,6 +43,20 @@ SwiftUI, MVVM + Coordinator, offline-first with CloudKit sync, Sign in with Appl
 
 ---
 
+## Track record
+
+Not claims. Every number below is checkable on a third-party platform.
+
+| Platform | Since | Record |
+|---|---|---|
+| **[Mostaql](https://mostaql.com/u/khaled_m2)** | Jan 2022 | **5.0 stars** · 26 milestones · 24 reviews |
+| **[Forlanso](https://www.forlanso.com/en/khaled-mohamed-6)** | Jul 2025 | 21+ milestones |
+| **[Upwork](https://www.upwork.com/freelancers/~khaledm2225)** | Jan 2025 | 5 milestones, all rated 5.0 |
+
+**52+ milestones** across ongoing engagements — the same clients, year after year.
+
+---
+
 ## Stack
 
 | | |
