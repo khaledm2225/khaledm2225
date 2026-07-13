@@ -53,7 +53,7 @@ Not claims. Every number below is checkable on a third-party platform.
 | **[Upwork](https://www.upwork.com/freelancers/~khaledm2225)** | Jan 2025 | 5 milestones, all rated 5.0 |
 | **[Forlanso](https://www.forlanso.com/en/khaled-mohamed-6)** | Jul 2025 | 21+ milestones |
 
-**52+ milestones** across ongoing engagements — the same clients, year after year.
+**52+ milestones** across ongoing engagements.
 
 ---
 
