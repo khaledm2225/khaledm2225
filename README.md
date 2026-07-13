@@ -20,7 +20,7 @@ I help founders decide *what* to build, not just how — from the first conversa
 
 **Most engagements run one to two years, and several are still running today.**
 
-- 4+ years, **6 apps live on the App Store** across 4 client platforms
+- 4+ years, **4 startup apps live on the App Store**
 - Native iOS in **Swift and SwiftUI**, built with **TDD**
 - Payments, multi-vendor marketplaces, and Arabic right-to-left interfaces
 - Cairo, Egypt · open to **senior iOS roles**, remote or on-site
