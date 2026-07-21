@@ -3,7 +3,7 @@
   Keep banner2.png in the repo; the image line below points at it.
 -->
 
-![Khaled Mohammed — iOS Developer](banner2.png)
+![Khaled Mohammed — iOS Developer](banner.png)
 
 [![Open to Senior iOS Roles](https://img.shields.io/badge/OPEN_TO_SENIOR_iOS_ROLES-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://www.linkedin.com/in/khaledm2225/)
 
